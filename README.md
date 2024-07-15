@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swapnil Ghadigaonkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+# 💫 About Me:
+
+Hello! I'm Swapnil Ghadigaonkar, a passionate software developer from Mumbai, India. I have a strong background in Python, JavaScript, MySQL, MongoDB, Flask, and RESTful APIs. With a BE in Electronics and Telecommunication, I aim to leverage my skills to contribute to innovative projects. I have developed notable projects like an Inventory Management System and an Online Doctor Appointment System. I'm committed to continuous learning and enjoy collaborating in dynamic teams to deliver high-quality solutions.
+
+
+
+
 - 🔭 I’m currently exploring **digital world!**
 
 - 🌱 I’m currently learning **Frappe**
